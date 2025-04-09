@@ -1,0 +1,1 @@
+# Analysis-of-words-in-the-text-with-calculation-of-the-average-index
